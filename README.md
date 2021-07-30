@@ -5,3 +5,13 @@ Welcome to Android Basics in Kotlin! In this course, you'll learn the basics of 
 https://developer.android.com/courses/android-basics-kotlin/course
 
 Thanks!!
+
+
+
+<br>
+
+![img](1.png)
+![img](2.png)
+![img](3.png)
+
+<br>
