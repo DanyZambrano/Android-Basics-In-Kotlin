@@ -11,7 +11,7 @@ As with activities, each fragment you add will consist of two files—an XML fil
 
 <br>
 
-![img](Lecture/1.png)
+![img](1.png)
 
 <br>
 
@@ -29,8 +29,8 @@ Like activities, fragments can be initialized and removed from memory, and throu
 
 <br>
 
-![img](Lecture/2.png)
-![img](Lecture/3.png)
+![img](2.png)
+![img](3.png)
 
 <br>
 
