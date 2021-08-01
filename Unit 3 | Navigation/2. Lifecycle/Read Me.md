@@ -3,11 +3,5 @@
 
 ### Lecture
 
-* [Collection](Lecture/Collection.md)
-* [Map](Lecture/Map.md)
-* [Lambdas](Lecture/Lambdas.md)
-* [Intent](Lecture/Intent.md)
-* [WordList](Lecture/WordList.md)
-
 * [LifeCycle](Lecture/LifeCycle.md)
 * [Logs](Lecture/Logs.md)

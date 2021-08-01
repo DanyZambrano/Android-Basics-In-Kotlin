@@ -10,8 +10,8 @@ Thanks!!
 
 <br>
 
-![img](1.png)
-![img](2.png)
-![img](3.png)
+![img](Images/1.png)
+![img](Images/2.png)
+![img](Images/3.png)
 
 <br>
