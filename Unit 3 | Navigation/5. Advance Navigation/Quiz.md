@@ -1,7 +1,6 @@
 <br>
 
-![img](Lecture/quiz31.png)
-![img](Lecture/quiz32.png)
-![img](Lecture/quiz32.png)
+![img](Lecture/quiz1.png)
+![img](Lecture/quiz2.png)
 
 <br>
