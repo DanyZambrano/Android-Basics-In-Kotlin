@@ -9,4 +9,4 @@
 
 ### Video
 
-[![Navigation Overview](Lecture/7.jpg)](https://www.youtube.com/watch?v=xITkfPIaStU&t=8sE)
+[![Navigation Overview](Lecture/7.png)](https://www.youtube.com/watch?v=xITkfPIaStU&t=8sE)
