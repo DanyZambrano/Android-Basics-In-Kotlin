@@ -7,11 +7,8 @@ https://developer.android.com/courses/android-basics-kotlin/course
 Thanks!!
 
 
+### Resources
 
-<br>
-
-![img](Images/1.png)
-![img](Images/2.png)
-![img](Images/3.png)
-
-<br>
+* [Mindorks](https://mindorks.com)
+    * [Tips and Tricks of Android Studio](https://blog.mindorks.com/tips-and-tricks-of-android-studio)
+* 
