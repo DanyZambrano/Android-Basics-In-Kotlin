@@ -1,8 +1,6 @@
-
 <br>
 
-![img](quiz1.png)
-![img](quiz2.png)
-![img](quiz3.png)
+![img](Lecture/quiz1.png)
+![img](Lecture/quiz2.png)
 
 <br>
