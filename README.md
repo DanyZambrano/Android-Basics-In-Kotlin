@@ -15,7 +15,7 @@ Thanks!!
 * Unit 3 - 
     [Quiz 1](https://github.com/DanyZambrano/AndroidBasicsInKotlin/blob/main/Unit%203%20%7C%20Navigation/3.%20Navigation/Quiz.md) |  [Quiz 2](https://github.com/DanyZambrano/AndroidBasicsInKotlin/blob/main/Unit%203%20%7C%20Navigation/4.%20Architecture%20Components/Quiz.md) | [Quiz 3](https://github.com/DanyZambrano/AndroidBasicsInKotlin/blob/main/Unit%203%20%7C%20Navigation/4.%20Architecture%20Components/Quiz.md) | [Quiz 4](https://github.com/DanyZambrano/AndroidBasicsInKotlin/blob/main/Unit%203%20%7C%20Navigation/4.%20Architecture%20Components/Quiz.md)
 * Unit 4 - 
-    [Quiz 1](https://github.com/DanyZambrano/AndroidBasicsInKotlin/blob/main/Unit%201%20%7C%20Basic/Quiz%201.md) |  [Quiz 2](https://github.com/DanyZambrano/AndroidBasicsInKotlin/blob/main/Unit%201%20%7C%20Basic/Quiz%202.md)
+    [Quiz 1](https://github.com/DanyZambrano/AndroidBasicsInKotlin/blob/main/Unit%204%20%7C%20Internet/Quiz%201.md) |  [Quiz 2](https://github.com/DanyZambrano/AndroidBasicsInKotlin/blob/main/Unit%204%20%7C%20Internet/Quiz%202.md)
 
 ### Training
 
